@@ -16,6 +16,7 @@
   About Me :speech_balloon:
   </div>
 
+
 - 🔭 I’m currently working on a portfolio app with most of what i've learned so far.
 - 🌱 I’m currently learning Jetpack Compose, Dependency injection & Testing.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/gabriel-ascanio
