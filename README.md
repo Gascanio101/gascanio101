@@ -21,7 +21,7 @@
 I'm an aspiring Android developer from Spain. I have learned from various sources online, including Udemy, RayWenderlich (Now Kodeco), Youtube and Skillshare. 
 - 🔭 I’m currently working on a portfolio app, featuring MVVM, ROOM databases, API REST services & jetpack compose.
 - 🌱 I’m currently learning Jetpack Compose, Dependency injection & Testing.
-- 📫 How to reach me: You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ascanio)
+- 📫 How to reach me: You can reach me on my email: gascanio101@gmail.com, or directly from [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ascanio)
 
 <!--
 **Gascanio101/gascanio101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
