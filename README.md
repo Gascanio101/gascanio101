@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -10,14 +10,16 @@
   </a>
 </div>
 
+<div id="greetings">
+
  --- 
 
 <div id="about me" align="center">
   About Me :speech_balloon:
   </div>
 
-
-- 🔭 I’m currently working on a portfolio app with most of what i've learned so far.
+I'm an aspiring Android developer from Spain. I have learned from various sources online, including Udemy, RayWenderlich (Now Kodeco), Youtube and Skillshare. 
+- 🔭 I’m currently working on a portfolio app, featuring MVVM, ROOM databases, API REST services & jetpack compose.
 - 🌱 I’m currently learning Jetpack Compose, Dependency injection & Testing.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ascanio)
 
