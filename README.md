@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/gabriel-ascanio">
+  <a href="https://www.linkedin.com/in/gabriel-ascanio">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on a portfolio app with most of what i've learned so far.
 - 🌱 I’m currently learning Jetpack Compose, Dependency injection & Testing.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/gabriel-ascanio)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ascanio)
 
 <!--
 **Gascanio101/gascanio101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
